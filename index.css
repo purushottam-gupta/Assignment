@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sec1{
+    background-color:rgb(95, 0, 184) ;
+    height: 100vh;
+}
+.sec2{
+    background-color: blueviolet; 
+    color: whitesmoke;
+    height: 100vh;
+}
+img{
+    width: 350px;
+    height: 300px;
+    margin-top: px;
+}
+input{
+    display: inline-block;
+    width: 48%;
+    height: 50px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    outline: none;
+    border: 1px solid whitesmoke;
+    border-radius: 30px;
+}
+::placeholder {
+    color: whitesmoke;
+  }
+button{
+    border: 2px solid whitesmoke;
+    border-radius: 100%;
+    width: 68px;
+    height: 68px;
+    outline: none;
+    background-color:blueviolet ;
+    color: whitesmoke;
+    margin: 5px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(164, 101, 223);
+}
